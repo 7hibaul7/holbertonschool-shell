@@ -1,1 +1,1 @@
-Shell training repo, each directory contains several files with a script in each.
+Shell training repo, the directory contains 18 differents scripts
