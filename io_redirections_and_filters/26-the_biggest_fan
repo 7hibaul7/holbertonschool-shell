@@ -1,2 +1,2 @@
 #!/bin/bash
-sort -k6 -n | head -n 11
+uniq -f 5 -c | sort -n
