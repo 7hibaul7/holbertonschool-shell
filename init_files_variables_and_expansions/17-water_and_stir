@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $(($WATER+$STIR))
+echo $((echo $WATER | tr water 12345))+$((echo $TIR | tr stir. 12345))
