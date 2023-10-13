@@ -1,2 +1,2 @@
 #!/bin/bash
-sort | uniq -uc
+cut -f 1 | sort | uniq -c | sort -nr
