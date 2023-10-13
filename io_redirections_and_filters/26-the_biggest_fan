@@ -1,2 +1,2 @@
 #!/bin/bash
-uniq -f 5 -c | sort -n
+sort | uniq -c | sort -n | cut -f 1
