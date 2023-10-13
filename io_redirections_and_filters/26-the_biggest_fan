@@ -1,2 +1,2 @@
 #!/bin/bash
-sort -k7 -n
+sort -k6 -n | head -n 11
